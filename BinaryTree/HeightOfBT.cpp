@@ -35,7 +35,6 @@ int main(){
     root ->left ->right = new node(5);
     root -> right -> right = new node(6);
     root->right->right->right-> = new node(7);
-
-
+    cout<< height(root);
     return 0;
 }
