@@ -28,7 +28,7 @@ void highestOddNumber(string num){
 
 
 int main(){
-    string num = "504";
+    string num = "50426447";
     highestOddNumber(num);
     return 0;
 }
